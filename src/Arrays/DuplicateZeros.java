@@ -3,7 +3,8 @@ package Arrays;
 /**
  * Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
  * <p>
- * Note that elements beyond the length of the original array are not written. Do the above modifications to the input array in place and do not return anything.
+ * Note that elements beyond the length of the original array are not written.
+ * Do the above modifications to the input array in place and do not return anything.
  * Example 1:
  * <p>
  * Input: arr = [1,0,2,3,0,4,5,0]
